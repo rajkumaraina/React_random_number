@@ -1,0 +1,28 @@
+.container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  color: #000000;
+  margin: 12px;
+  font-size: 55px;
+}
+.button {
+  color: #334155;
+  background-color: #ffffff;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 8px;
+}
+.para {
+  color: #334155;
+  font-size: 35px;
+}
+.para {
+  color: #334155;
+  font-size: 25px;
+}
